@@ -1,0 +1,39 @@
+# Git Ignore file for Python project
+# See https://www.toptal.com/devtos/gitignore/python
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sphinx documentation
+.doc/
+build/
+out/
+*.log
+
+# PyInstaller
+*.spec
+dist/
+*.exe
+*.dll
+*.dist-info
+
+# Django
+migrations/
+staticfiles/
+# local_settings.py
+
+# Virtual environment
+venv/
+env/
+.venv/
+pyvenv.cfg
+
+# Others
+.DS_Store
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
