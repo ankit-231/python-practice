@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml">
+  <w:bibliography>
+    <b:Sources xmlns:b="http://schemas.microsoft.com/office/word/2004/10/bibliography">
+      <!-- Previous entries remain the same -->
+      
+      <!-- Adding the missing references -->
+      <b:Source>
+        <b:Tag>OHCHR_Freedoms</b:Tag>
+        <b:SourceType>InternetSite</b:SourceType>
+        <b:Author>
+          <b:Author>
+            <b:Corporate>Office of the U.N. High Commissioner for Human Rights</b:Corporate>
+          </b:Author>
+        </b:Author>
+        <b:Title>Fundamental Freedoms</b:Title>
+        <b:URL>https://2covenants.ohchr.org/Fundamental-Freedoms.html</b:URL>
+        <b:Year>2024</b:Year>
+      </b:Source>
+
+      <b:Source>
+        <b:Tag>YouthHR_History</b:Tag>
+        <b:SourceType>InternetSite</b:SourceType>
+        <b:Author>
+          <b:Author>
+            <b:Corporate>Youth for Human Rights</b:Corporate>
+          </b:Author>
+        </b:Author>
+        <b:Title>History of Human Rights</b:Title>
+        <b:URL>www.youthforhuman.org</b:URL>
+        <b:Year>2024</b:Year>
+      </b:Source>
+
+      <b:Source>
+        <b:Tag>IndiaMap_Gandhi</b:Tag>
+        <b:SourceType>InternetSite</b:SourceType>
+        <b:Author>
+          <b:Author>
+            <b:Corporate>India Map</b:Corporate>
+          </b:Author>
+        </b:Author>
+        <b:Title>Gandhi and the Indian National Congress</b:Title>
+        <b:URL>https://www.mapsofindia.com/personalities/gandhi/role-in-indian-national-congress.html</b:URL>
+        <b:Year>2024</b:Year>
+      </b:Source>
+
+      <b:Source>
+        <b:Tag>Britannica_SanFrancisco</b:Tag>
+        <b:SourceType>InternetSite</b:SourceType>
+        <b:Author>
+          <b:Author>
+            <b:Corporate>Encyclopaedia Britannica</b:Corporate>
+          </b:Author>
+        </b:Author>
+        <b:Title>San Francisco Conference</b:Title>
+        <b:URL>https://www.britannica.com/event/San-Francisco-Conference</b:URL>
+        <b:Year>2024</b:Year>
+      </b:Source>
+
+      <!-- Rest of the previous entries -->
+      <b:Source>
+        <b:Tag>Lowe2017</b:Tag>
+        <b:SourceType>Book</b:SourceType>
+        <b:Author>
+          <b:Author>
+            <b:NameList>
+              <b:Person>
+                <b:Last>Lowe</b:Last>
+                <b:First>Keith</b:First>
+              </b:Person>
+            </b:NameList>
+          </b:Author>
+        </b:Author>
+        <b:Title>World War II: The Fear and the Freedom</b:Title>
+        <b:Year>2017</b:Year>
+        <b:URL>www.thehistory.com</b:URL>
+      </b:Source>
+      <b:Source>
+        <b:Tag>Britannica_QuitIndia</b:Tag>
+        <b:SourceType>InternetSite</b:SourceType>
+        <b:Author>
+          <b:Author>
+            <b:Corporate>Encyclopaedia Britannica</b:Corporate>
+          </b:Author>
+        </b:Author>
+        <b:Title>Quit India Movement</b:Title>
+        <b:URL>https://www.britannica.com/event/Quit-India-Movement</b:URL>
+        <b:Year>2024</b:Year>
+      </b:Source>
+      <b:Source>
+        <b:Tag>Lutz2009</b:Tag>
+        <b:SourceType>Book</b:SourceType>
+        <b:Author>
+          <b:Author>
+            <b:NameList>
+              <b:Person>
+                <b:Last>Lutz</b:Last>
+                <b:First>Ralph</b:First>
+              </b:Person>
+            </b:NameList>
+          </b:Author>
+        </b:Author>
+        <b:Title>The Meaning of Freedom</b:Title>
+        <b:Year>2009</b:Year>
+        <b:URL>www.ieet.org</b:URL>
+      </b:Source>
+
+      <b:Source>
+        <b:Tag>Rao1985</b:Tag>
+        <b:SourceType>Book</b:SourceType>
+        <b:Author>
+          <b:Author>
+            <b:NameList>
+              <b:Person>
+                <b:Last>Rao</b:Last>
+                <b:First>B. V.</b:First>
+              </b:Person>
+            </b:NameList>
+          </b:Author>
+        </b:Author>
+        <b:Title>World History</b:Title>
+        <b:Publisher>Sterling Publishers</b:Publisher>
+        <b:Year>1985</b:Year>
+      </b:Source>
+
+      <b:Source>
+        <b:Tag>Spielvogel1999</b:Tag>
+        <b:SourceType>Book</b:SourceType>
+        <b:Author>
+          <b:Author>
+            <b:NameList>
+              <b:Person>
+                <b:Last>Spielvogel</b:Last>
+                <b:First>Jackson J.</b:First>
+              </b:Person>
+            </b:NameList>
+          </b:Author>
+        </b:Author>
+        <b:Title>Modern World History</b:Title>
+        <b:Publisher>National Textbook Company</b:Publisher>
+        <b:Year>1999</b:Year>
+      </b:Source>
+
+      <b:Source>
+        <b:Tag>Britannica_Freedom</b:Tag>
+        <b:SourceType>InternetSite</b:SourceType>
+        <b:Author>
+          <b:Author>
+            <b:Corporate>Britannica Dictionary</b:Corporate>
+          </b:Author>
+        </b:Author>
+        <b:Title>Freedom</b:Title>
+        <b:URL>https://www.britannica.com/dictionary/freedom</b:URL>
+        <b:Year>2024</b:Year>
+      </b:Source>
+
+      <b:Source>
+        <b:Tag>UN_UDHR_1948</b:Tag>
+        <b:SourceType>DocumentFromInternetSite</b:SourceType>
+        <b:Author>
+          <b:Author>
+            <b:Corporate>United Nations General Assembly</b:Corporate>
+          </b:Author>
+        </b:Author>
+        <b:Title>Universal Declaration of Human Rights, Resolution 217</b:Title>
+        <b:Year>1948</b:Year>
+      </b:Source>
+
+      <b:Source>
+        <b:Tag>UN_ICCPR_1966</b:Tag>
+        <b:SourceType>DocumentFromInternetSite</b:SourceType>
+        <b:Author>
+          <b:Author>
+            <b:Corporate>United Nations General Assembly</b:Corporate>
+          </b:Author>
+        </b:Author>
+        <b:Title>International Covenant on Civil and Political Rights</b:Title>
+        <b:Year>1966</b:Year>
+      </b:Source>
+
+      <b:Source>
+        <b:Tag>HRC_2001</b:Tag>
+        <b:SourceType>DocumentFromInternetSite</b:SourceType>
+        <b:Author>
+          <b:Author>
+            <b:Corporate>Human Rights Committee</b:Corporate>
+          </b:Author>
+        </b:Author>
+        <b:Title>General Comment No. 29: States of Emergency (Article 4)</b:Title>
+        <b:Year>2001</b:Year>
+        <b:StandardNumber>CCPR/C/21/Rev.1/Add.11</b:StandardNumber>
+        <b:URL>https://hrlibrary.umn.edu/gencomm/hrc29.html</b:URL>
+      </b:Source>
+    </b:Sources>
+  </w:bibliography>
+</w:document>
